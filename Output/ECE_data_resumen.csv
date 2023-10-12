@@ -1,0 +1,894 @@
+Trimestre,var,categoria,n,prop
+2019-01,Condicion_actividad,1.Ocupado,2171766,55.4
+2019-01,Condicion_actividad,2.Desempleado,276279,7
+2019-01,Condicion_actividad,3.Fuera de la PEA,1474812,37.6
+2019-01,Subempleado,1.No,1984509,91.4
+2019-01,Subempleado,2.Sí,186530,8.6
+2019-01,Subempleado,3.No especificado,727,0
+2019-01,Rama_actividad,99.No especificado,11051,0.5
+2019-01,Rama_actividad,"Act. Artísticas, de entretenimiento y recreativas",29278,1.3
+2019-01,Rama_actividad,Act. Atención de la salud humana y de asistencia social,85127,3.9
+2019-01,Rama_actividad,Act. de los hogares como empleadores,163060,7.5
+2019-01,Rama_actividad,Act. de organizaciones y órganos extraterritoriales,1124,0.1
+2019-01,Rama_actividad,Act. Financieras y de seguros,51482,2.4
+2019-01,Rama_actividad,Act. Inmobiliarias,17265,0.8
+2019-01,Rama_actividad,"Act. Profesionales, científicas y técnicas",78228,3.6
+2019-01,Rama_actividad,Act. Servicios administrativos y de apoyo,112461,5.2
+2019-01,Rama_actividad,Actividades de alojamiento,135116,6.2
+2019-01,Rama_actividad,Administración pública y defensa,88907,4.1
+2019-01,Rama_actividad,"Agricultura, ganadería, silvicultura y pesca",279263,12.9
+2019-01,Rama_actividad,Comercio al por mayor y al por menor,355167,16.4
+2019-01,Rama_actividad,Construcción,138498,6.4
+2019-01,Rama_actividad,Enseñanza,114233,5.3
+2019-01,Rama_actividad,Explotación de minas y canteras,1321,0.1
+2019-01,Rama_actividad,Industrias manufactureras,236872,10.9
+2019-01,Rama_actividad,Información y comunicaciones,41533,1.9
+2019-01,Rama_actividad,Otras actividades de servicios,80473,3.7
+2019-01,Rama_actividad,"Suministro de agua, evacuación de aguas",8507,0.4
+2019-01,Rama_actividad,Suministro de electricidad,17330,0.8
+2019-01,Rama_actividad,Transporte y almacenamiento,125470,5.8
+2019-01,Educacion_asiste,1.Escuela,5869,0.1
+2019-01,Educacion_asiste,2.colegio,269424,6.9
+2019-01,Educacion_asiste,3.Parauniversitaria o universitaria,287892,7.3
+2019-01,Educacion_asiste,4.Enseñanza especial,1100,0
+2019-01,Educacion_asiste,5.Educación abierta en institutos para presentar exámenes ante el MEP,46467,1.2
+2019-01,Educacion_asiste,6.Otro tipo de formación no formal,73908,1.9
+2019-01,Educacion_asiste,7.No asiste,3238085,82.5
+2019-01,Educacion_asiste,9,112,0
+2019-01,Motivo_nobusco,1.Ya encontró trabajo,3228,1.2
+2019-01,Motivo_nobusco,10.Enfermedad o accidente,17736,6.4
+2019-01,Motivo_nobusco,11.Asiste a centro de enseñanza,34964,12.7
+2019-01,Motivo_nobusco,12.Tiene obligaciones familiares,93295,33.8
+2019-01,Motivo_nobusco,13.Tiene obligaciones personales,31659,11.5
+2019-01,Motivo_nobusco,14.Otras razones,7808,2.8
+2019-01,Motivo_nobusco,2.Espera reinicio de operaciones o reapertura del negocio,2644,1
+2019-01,Motivo_nobusco,3.Espera respuesta de gestiones anteriores,7943,2.9
+2019-01,Motivo_nobusco,4.No tiene dinero para buscar,2502,0.9
+2019-01,Motivo_nobusco,5.Se cansó de buscar,4290,1.6
+2019-01,Motivo_nobusco,"6.No le dan trabajo por edad, sexo, raza, discapacidad, otro",36630,13.3
+2019-01,Motivo_nobusco,7.No hay trabajo en la zona,15658,5.7
+2019-01,Motivo_nobusco,8.Sabe que en esta época del año no hay trabajo,896,0.3
+2019-01,Motivo_nobusco,9.Solo trabaja cuando se lo piden,16890,6.1
+2019-01,Joven_nini,Sí,160063,100
+2019-02,Condicion_actividad,1.Ocupado,2183195,55.5
+2019-02,Condicion_actividad,2.Desempleado,295580,7.5
+2019-02,Condicion_actividad,3.Fuera de la PEA,1457929,37
+2019-02,Subempleado,1.No,1958652,89.7
+2019-02,Subempleado,2.Sí,224021,10.3
+2019-02,Subempleado,3.No especificado,522,0
+2019-02,Rama_actividad,99.No especificado,7860,0.4
+2019-02,Rama_actividad,"Act. Artísticas, de entretenimiento y recreativas",27470,1.3
+2019-02,Rama_actividad,Act. Atención de la salud humana y de asistencia social,96052,4.4
+2019-02,Rama_actividad,Act. de los hogares como empleadores,158276,7.2
+2019-02,Rama_actividad,Act. de organizaciones y órganos extraterritoriales,2483,0.1
+2019-02,Rama_actividad,Act. Financieras y de seguros,45942,2.1
+2019-02,Rama_actividad,Act. Inmobiliarias,22003,1
+2019-02,Rama_actividad,"Act. Profesionales, científicas y técnicas",78560,3.6
+2019-02,Rama_actividad,Act. Servicios administrativos y de apoyo,105148,4.8
+2019-02,Rama_actividad,Actividades de alojamiento,144019,6.6
+2019-02,Rama_actividad,Administración pública y defensa,101946,4.7
+2019-02,Rama_actividad,"Agricultura, ganadería, silvicultura y pesca",256075,11.7
+2019-02,Rama_actividad,Comercio al por mayor y al por menor,350986,16.1
+2019-02,Rama_actividad,Construcción,166835,7.6
+2019-02,Rama_actividad,Enseñanza,121398,5.6
+2019-02,Rama_actividad,Explotación de minas y canteras,1837,0.1
+2019-02,Rama_actividad,Industrias manufactureras,225461,10.3
+2019-02,Rama_actividad,Información y comunicaciones,46370,2.1
+2019-02,Rama_actividad,Otras actividades de servicios,85461,3.9
+2019-02,Rama_actividad,"Suministro de agua, evacuación de aguas",5167,0.2
+2019-02,Rama_actividad,Suministro de electricidad,16957,0.8
+2019-02,Rama_actividad,Transporte y almacenamiento,116889,5.4
+2019-02,Educacion_asiste,1.Escuela,12026,0.3
+2019-02,Educacion_asiste,2.colegio,296161,7.5
+2019-02,Educacion_asiste,3.Parauniversitaria o universitaria,281871,7.2
+2019-02,Educacion_asiste,4.Enseñanza especial,459,0
+2019-02,Educacion_asiste,5.Educación abierta en institutos para presentar exámenes ante el MEP,43185,1.1
+2019-02,Educacion_asiste,6.Otro tipo de formación no formal,97862,2.5
+2019-02,Educacion_asiste,7.No asiste,3205140,81.4
+2019-02,Motivo_nobusco,1.Ya encontró trabajo,3384,1.4
+2019-02,Motivo_nobusco,10.Enfermedad o accidente,22169,9.5
+2019-02,Motivo_nobusco,11.Asiste a centro de enseñanza,32124,13.7
+2019-02,Motivo_nobusco,12.Tiene obligaciones familiares,78927,33.7
+2019-02,Motivo_nobusco,13.Tiene obligaciones personales,28012,12
+2019-02,Motivo_nobusco,14.Otras razones,3817,1.6
+2019-02,Motivo_nobusco,2.Espera reinicio de operaciones o reapertura del negocio,584,0.2
+2019-02,Motivo_nobusco,3.Espera respuesta de gestiones anteriores,3131,1.3
+2019-02,Motivo_nobusco,4.No tiene dinero para buscar,247,0.1
+2019-02,Motivo_nobusco,5.Se cansó de buscar,1485,0.6
+2019-02,Motivo_nobusco,"6.No le dan trabajo por edad, sexo, raza, discapacidad, otro",29103,12.4
+2019-02,Motivo_nobusco,7.No hay trabajo en la zona,17080,7.3
+2019-02,Motivo_nobusco,8.Sabe que en esta época del año no hay trabajo,870,0.4
+2019-02,Motivo_nobusco,9.Solo trabaja cuando se lo piden,13459,5.7
+2019-02,Joven_nini,Sí,139539,100
+2019-03,Condicion_actividad,1.Ocupado,2162613,54.7
+2019-03,Condicion_actividad,2.Desempleado,278108,7
+2019-03,Condicion_actividad,3.Fuera de la PEA,1510658,38.2
+2019-03,Subempleado,1.No,1909508,88.3
+2019-03,Subempleado,2.Sí,250833,11.6
+2019-03,Subempleado,3.No especificado,2272,0.1
+2019-03,Rama_actividad,99.No especificado,3785,0.2
+2019-03,Rama_actividad,"Act. Artísticas, de entretenimiento y recreativas",23005,1.1
+2019-03,Rama_actividad,Act. Atención de la salud humana y de asistencia social,100399,4.6
+2019-03,Rama_actividad,Act. de los hogares como empleadores,148476,6.9
+2019-03,Rama_actividad,Act. de organizaciones y órganos extraterritoriales,2748,0.1
+2019-03,Rama_actividad,Act. Financieras y de seguros,50308,2.3
+2019-03,Rama_actividad,Act. Inmobiliarias,21517,1
+2019-03,Rama_actividad,"Act. Profesionales, científicas y técnicas",87099,4
+2019-03,Rama_actividad,Act. Servicios administrativos y de apoyo,117290,5.4
+2019-03,Rama_actividad,Actividades de alojamiento,142418,6.6
+2019-03,Rama_actividad,Administración pública y defensa,96580,4.5
+2019-03,Rama_actividad,"Agricultura, ganadería, silvicultura y pesca",240744,11.1
+2019-03,Rama_actividad,Comercio al por mayor y al por menor,344629,15.9
+2019-03,Rama_actividad,Construcción,158004,7.3
+2019-03,Rama_actividad,Enseñanza,144480,6.7
+2019-03,Rama_actividad,Explotación de minas y canteras,2208,0.1
+2019-03,Rama_actividad,Industrias manufactureras,212978,9.8
+2019-03,Rama_actividad,Información y comunicaciones,39294,1.8
+2019-03,Rama_actividad,Otras actividades de servicios,77384,3.6
+2019-03,Rama_actividad,"Suministro de agua, evacuación de aguas",4965,0.2
+2019-03,Rama_actividad,Suministro de electricidad,19586,0.9
+2019-03,Rama_actividad,Transporte y almacenamiento,124716,5.8
+2019-03,Educacion_asiste,1.Escuela,8886,0.2
+2019-03,Educacion_asiste,2.colegio,304140,7.7
+2019-03,Educacion_asiste,3.Parauniversitaria o universitaria,296318,7.5
+2019-03,Educacion_asiste,4.Enseñanza especial,1953,0
+2019-03,Educacion_asiste,5.Educación abierta en institutos para presentar exámenes ante el MEP,47230,1.2
+2019-03,Educacion_asiste,6.Otro tipo de formación no formal,114492,2.9
+2019-03,Educacion_asiste,7.No asiste,3178257,80.4
+2019-03,Motivo_nobusco,1.Ya encontró trabajo,3934,1.8
+2019-03,Motivo_nobusco,10.Enfermedad o accidente,19709,8.9
+2019-03,Motivo_nobusco,11.Asiste a centro de enseñanza,29422,13.3
+2019-03,Motivo_nobusco,12.Tiene obligaciones familiares,62507,28.3
+2019-03,Motivo_nobusco,13.Tiene obligaciones personales,30515,13.8
+2019-03,Motivo_nobusco,14.Otras razones,3934,1.8
+2019-03,Motivo_nobusco,2.Espera reinicio de operaciones o reapertura del negocio,1115,0.5
+2019-03,Motivo_nobusco,3.Espera respuesta de gestiones anteriores,6045,2.7
+2019-03,Motivo_nobusco,4.No tiene dinero para buscar,716,0.3
+2019-03,Motivo_nobusco,5.Se cansó de buscar,5735,2.6
+2019-03,Motivo_nobusco,"6.No le dan trabajo por edad, sexo, raza, discapacidad, otro",22306,10.1
+2019-03,Motivo_nobusco,7.No hay trabajo en la zona,18351,8.3
+2019-03,Motivo_nobusco,8.Sabe que en esta época del año no hay trabajo,2497,1.1
+2019-03,Motivo_nobusco,9.Solo trabaja cuando se lo piden,13996,6.3
+2019-03,Joven_nini,Sí,117567,100
+2019-04,Condicion_actividad,1.Ocupado,2182818,55.1
+2019-04,Condicion_actividad,2.Desempleado,309465,7.8
+2019-04,Condicion_actividad,3.Fuera de la PEA,1471375,37.1
+2019-04,Subempleado,1.No,1941293,88.9
+2019-04,Subempleado,2.Sí,241403,11.1
+2019-04,Subempleado,3.No especificado,122,0
+2019-04,Rama_actividad,99.No especificado,9282,0.4
+2019-04,Rama_actividad,"Act. Artísticas, de entretenimiento y recreativas",30588,1.4
+2019-04,Rama_actividad,Act. Atención de la salud humana y de asistencia social,89029,4.1
+2019-04,Rama_actividad,Act. de los hogares como empleadores,158907,7.3
+2019-04,Rama_actividad,Act. de organizaciones y órganos extraterritoriales,1736,0.1
+2019-04,Rama_actividad,Act. Financieras y de seguros,41096,1.9
+2019-04,Rama_actividad,Act. Inmobiliarias,20744,1
+2019-04,Rama_actividad,"Act. Profesionales, científicas y técnicas",69697,3.2
+2019-04,Rama_actividad,Act. Servicios administrativos y de apoyo,112889,5.2
+2019-04,Rama_actividad,Actividades de alojamiento,140604,6.4
+2019-04,Rama_actividad,Administración pública y defensa,94787,4.3
+2019-04,Rama_actividad,"Agricultura, ganadería, silvicultura y pesca",261669,12
+2019-04,Rama_actividad,Comercio al por mayor y al por menor,343299,15.7
+2019-04,Rama_actividad,Construcción,135002,6.2
+2019-04,Rama_actividad,Enseñanza,157770,7.2
+2019-04,Rama_actividad,Explotación de minas y canteras,768,0
+2019-04,Rama_actividad,Industrias manufactureras,226921,10.4
+2019-04,Rama_actividad,Información y comunicaciones,47095,2.2
+2019-04,Rama_actividad,Otras actividades de servicios,95753,4.4
+2019-04,Rama_actividad,"Suministro de agua, evacuación de aguas",9016,0.4
+2019-04,Rama_actividad,Suministro de electricidad,20789,1
+2019-04,Rama_actividad,Transporte y almacenamiento,115377,5.3
+2019-04,Educacion_asiste,1.Escuela,8040,0.2
+2019-04,Educacion_asiste,2.colegio,301882,7.6
+2019-04,Educacion_asiste,3.Parauniversitaria o universitaria,275342,6.9
+2019-04,Educacion_asiste,4.Enseñanza especial,630,0
+2019-04,Educacion_asiste,5.Educación abierta en institutos para presentar exámenes ante el MEP,46750,1.2
+2019-04,Educacion_asiste,6.Otro tipo de formación no formal,90511,2.3
+2019-04,Educacion_asiste,7.No asiste,3240503,81.8
+2019-04,Motivo_nobusco,1.Ya encontró trabajo,3439,1.5
+2019-04,Motivo_nobusco,10.Enfermedad o accidente,17788,7.8
+2019-04,Motivo_nobusco,11.Asiste a centro de enseñanza,28036,12.3
+2019-04,Motivo_nobusco,12.Tiene obligaciones familiares,70112,30.7
+2019-04,Motivo_nobusco,13.Tiene obligaciones personales,28996,12.7
+2019-04,Motivo_nobusco,14.Otras razones,2797,1.2
+2019-04,Motivo_nobusco,2.Espera reinicio de operaciones o reapertura del negocio,2127,0.9
+2019-04,Motivo_nobusco,3.Espera respuesta de gestiones anteriores,6329,2.8
+2019-04,Motivo_nobusco,4.No tiene dinero para buscar,295,0.1
+2019-04,Motivo_nobusco,5.Se cansó de buscar,3352,1.5
+2019-04,Motivo_nobusco,"6.No le dan trabajo por edad, sexo, raza, discapacidad, otro",31396,13.7
+2019-04,Motivo_nobusco,7.No hay trabajo en la zona,15783,6.9
+2019-04,Motivo_nobusco,8.Sabe que en esta época del año no hay trabajo,815,0.4
+2019-04,Motivo_nobusco,9.Solo trabaja cuando se lo piden,17457,7.6
+2019-04,Joven_nini,Sí,146570,100
+2020-01,Condicion_actividad,1.Ocupado,2208175,55.5
+2020-01,Condicion_actividad,2.Desempleado,314153,7.9
+2020-01,Condicion_actividad,3.Fuera de la PEA,1454258,36.6
+2020-01,Subempleado,1.No,1933536,87.6
+2020-01,Subempleado,2.Sí,273983,12.4
+2020-01,Subempleado,3.No especificado,656,0
+2020-01,Rama_actividad,99.No especificado,7608,0.3
+2020-01,Rama_actividad,"Act. Artísticas, de entretenimiento y recreativas",32314,1.5
+2020-01,Rama_actividad,Act. Atención de la salud humana y de asistencia social,96669,4.4
+2020-01,Rama_actividad,Act. de los hogares como empleadores,137490,6.2
+2020-01,Rama_actividad,Act. de organizaciones y órganos extraterritoriales,2477,0.1
+2020-01,Rama_actividad,Act. Financieras y de seguros,47575,2.2
+2020-01,Rama_actividad,Act. Inmobiliarias,23512,1.1
+2020-01,Rama_actividad,"Act. Profesionales, científicas y técnicas",71721,3.2
+2020-01,Rama_actividad,Act. Servicios administrativos y de apoyo,125235,5.7
+2020-01,Rama_actividad,Actividades de alojamiento,140838,6.4
+2020-01,Rama_actividad,Administración pública y defensa,94946,4.3
+2020-01,Rama_actividad,"Agricultura, ganadería, silvicultura y pesca",270079,12.2
+2020-01,Rama_actividad,Comercio al por mayor y al por menor,356913,16.2
+2020-01,Rama_actividad,Construcción,145321,6.6
+2020-01,Rama_actividad,Enseñanza,142485,6.5
+2020-01,Rama_actividad,Explotación de minas y canteras,2484,0.1
+2020-01,Rama_actividad,Industrias manufactureras,228171,10.3
+2020-01,Rama_actividad,Información y comunicaciones,36478,1.7
+2020-01,Rama_actividad,Otras actividades de servicios,105537,4.8
+2020-01,Rama_actividad,"Suministro de agua, evacuación de aguas",5864,0.3
+2020-01,Rama_actividad,Suministro de electricidad,20838,0.9
+2020-01,Rama_actividad,Transporte y almacenamiento,113620,5.1
+2020-01,Educacion_asiste,1.Escuela,7998,0.2
+2020-01,Educacion_asiste,2.colegio,288585,7.3
+2020-01,Educacion_asiste,3.Parauniversitaria o universitaria,285110,7.2
+2020-01,Educacion_asiste,4.Enseñanza especial,3087,0.1
+2020-01,Educacion_asiste,5.Educación abierta en institutos para presentar exámenes ante el MEP,54037,1.4
+2020-01,Educacion_asiste,6.Otro tipo de formación no formal,78878,2
+2020-01,Educacion_asiste,7.No asiste,3258891,82
+2020-01,Motivo_nobusco,1.Ya encontró trabajo,4641,2.1
+2020-01,Motivo_nobusco,10.Enfermedad o accidente,14120,6.4
+2020-01,Motivo_nobusco,11.Asiste a centro de enseñanza,24275,10.9
+2020-01,Motivo_nobusco,12.Tiene obligaciones familiares,65413,29.4
+2020-01,Motivo_nobusco,13.Tiene obligaciones personales,26245,11.8
+2020-01,Motivo_nobusco,14.Otras razones,9058,4.1
+2020-01,Motivo_nobusco,2.Espera reinicio de operaciones o reapertura del negocio,2190,1
+2020-01,Motivo_nobusco,3.Espera respuesta de gestiones anteriores,7864,3.5
+2020-01,Motivo_nobusco,4.No tiene dinero para buscar,772,0.3
+2020-01,Motivo_nobusco,5.Se cansó de buscar,9930,4.5
+2020-01,Motivo_nobusco,"6.No le dan trabajo por edad, sexo, raza, discapacidad, otro",28005,12.6
+2020-01,Motivo_nobusco,7.No hay trabajo en la zona,13130,5.9
+2020-01,Motivo_nobusco,8.Sabe que en esta época del año no hay trabajo,2415,1.1
+2020-01,Motivo_nobusco,9.Solo trabaja cuando se lo piden,14243,6.4
+2020-01,Joven_nini,Sí,138923,100
+2020-02,Condicion_actividad,1.Ocupado,1745257,43.7
+2020-02,Condicion_actividad,2.Desempleado,551373,13.8
+2020-02,Condicion_actividad,3.Fuera de la PEA,1693219,42.4
+2020-02,Subempleado,1.No,1385581,79.4
+2020-02,Subempleado,2.Sí,358508,20.5
+2020-02,Subempleado,3.No especificado,1168,0.1
+2020-02,Rama_actividad,99.No especificado,6519,0.4
+2020-02,Rama_actividad,"Act. Artísticas, de entretenimiento y recreativas",11905,0.7
+2020-02,Rama_actividad,Act. Atención de la salud humana y de asistencia social,79704,4.6
+2020-02,Rama_actividad,Act. de los hogares como empleadores,88616,5.1
+2020-02,Rama_actividad,Act. Financieras y de seguros,38862,2.2
+2020-02,Rama_actividad,Act. Inmobiliarias,10651,0.6
+2020-02,Rama_actividad,"Act. Profesionales, científicas y técnicas",52460,3
+2020-02,Rama_actividad,Act. Servicios administrativos y de apoyo,109144,6.3
+2020-02,Rama_actividad,Actividades de alojamiento,77188,4.4
+2020-02,Rama_actividad,Administración pública y defensa,85983,4.9
+2020-02,Rama_actividad,"Agricultura, ganadería, silvicultura y pesca",233601,13.4
+2020-02,Rama_actividad,Comercio al por mayor y al por menor,279412,16
+2020-02,Rama_actividad,Construcción,104892,6
+2020-02,Rama_actividad,Enseñanza,136522,7.8
+2020-02,Rama_actividad,Explotación de minas y canteras,2903,0.2
+2020-02,Rama_actividad,Industrias manufactureras,203763,11.7
+2020-02,Rama_actividad,Información y comunicaciones,34288,2
+2020-02,Rama_actividad,Otras actividades de servicios,67289,3.9
+2020-02,Rama_actividad,"Suministro de agua, evacuación de aguas",5771,0.3
+2020-02,Rama_actividad,Suministro de electricidad,20321,1.2
+2020-02,Rama_actividad,Transporte y almacenamiento,95463,5.5
+2020-02,Educacion_asiste,1.Escuela,9734,0.2
+2020-02,Educacion_asiste,2.colegio,301208,7.5
+2020-02,Educacion_asiste,3.Parauniversitaria o universitaria,258893,6.5
+2020-02,Educacion_asiste,4.Enseñanza especial,4754,0.1
+2020-02,Educacion_asiste,5.Educación abierta en institutos para presentar exámenes ante el MEP,57896,1.5
+2020-02,Educacion_asiste,6.Otro tipo de formación no formal,63985,1.6
+2020-02,Educacion_asiste,7.No asiste,3293379,82.5
+2020-02,Motivo_nobusco,1.Ya encontró trabajo,1693,0.5
+2020-02,Motivo_nobusco,10.Enfermedad o accidente,13710,3.7
+2020-02,Motivo_nobusco,11.Asiste a centro de enseñanza,12535,3.4
+2020-02,Motivo_nobusco,12.Tiene obligaciones familiares,38588,10.4
+2020-02,Motivo_nobusco,13.Tiene obligaciones personales,16244,4.4
+2020-02,Motivo_nobusco,14.Otras razones,66337,17.9
+2020-02,Motivo_nobusco,2.Espera reinicio de operaciones o reapertura del negocio,119503,32.3
+2020-02,Motivo_nobusco,3.Espera respuesta de gestiones anteriores,4315,1.2
+2020-02,Motivo_nobusco,4.No tiene dinero para buscar,181,0
+2020-02,Motivo_nobusco,5.Se cansó de buscar,3397,0.9
+2020-02,Motivo_nobusco,"6.No le dan trabajo por edad, sexo, raza, discapacidad, otro",16553,4.5
+2020-02,Motivo_nobusco,7.No hay trabajo en la zona,45897,12.4
+2020-02,Motivo_nobusco,8.Sabe que en esta época del año no hay trabajo,11507,3.1
+2020-02,Motivo_nobusco,9.Solo trabaja cuando se lo piden,19617,5.3
+2020-02,Joven_nini,Sí,175924,100
+2020-03,Condicion_actividad,1.Ocupado,1846109,46.1
+2020-03,Condicion_actividad,2.Desempleado,520237,13
+2020-03,Condicion_actividad,3.Fuera de la PEA,1636921,40.9
+2020-03,Subempleado,1.No,1368553,74.1
+2020-03,Subempleado,2.Sí,477181,25.8
+2020-03,Subempleado,3.No especificado,375,0
+2020-03,Rama_actividad,99.No especificado,6740,0.4
+2020-03,Rama_actividad,"Act. Artísticas, de entretenimiento y recreativas",13180,0.7
+2020-03,Rama_actividad,Act. Atención de la salud humana y de asistencia social,87942,4.8
+2020-03,Rama_actividad,Act. de los hogares como empleadores,89870,4.9
+2020-03,Rama_actividad,Act. Financieras y de seguros,41192,2.2
+2020-03,Rama_actividad,Act. Inmobiliarias,17851,1
+2020-03,Rama_actividad,"Act. Profesionales, científicas y técnicas",64696,3.5
+2020-03,Rama_actividad,Act. Servicios administrativos y de apoyo,122493,6.6
+2020-03,Rama_actividad,Actividades de alojamiento,109968,6
+2020-03,Rama_actividad,Administración pública y defensa,74261,4
+2020-03,Rama_actividad,"Agricultura, ganadería, silvicultura y pesca",236711,12.8
+2020-03,Rama_actividad,Comercio al por mayor y al por menor,288086,15.6
+2020-03,Rama_actividad,Construcción,123239,6.7
+2020-03,Rama_actividad,Enseñanza,137904,7.5
+2020-03,Rama_actividad,Explotación de minas y canteras,1179,0.1
+2020-03,Rama_actividad,Industrias manufactureras,176470,9.6
+2020-03,Rama_actividad,Información y comunicaciones,40180,2.2
+2020-03,Rama_actividad,Otras actividades de servicios,89259,4.8
+2020-03,Rama_actividad,"Suministro de agua, evacuación de aguas",5966,0.3
+2020-03,Rama_actividad,Suministro de electricidad,18552,1
+2020-03,Rama_actividad,Transporte y almacenamiento,100370,5.4
+2020-03,Educacion_asiste,1.Escuela,8536,0.2
+2020-03,Educacion_asiste,2.colegio,313717,7.8
+2020-03,Educacion_asiste,3.Parauniversitaria o universitaria,255812,6.4
+2020-03,Educacion_asiste,4.Enseñanza especial,842,0
+2020-03,Educacion_asiste,5.Educación abierta en institutos para presentar exámenes ante el MEP,62008,1.5
+2020-03,Educacion_asiste,6.Otro tipo de formación no formal,73125,1.8
+2020-03,Educacion_asiste,7.No asiste,3289227,82.2
+2020-03,Motivo_nobusco,1.Ya encontró trabajo,1389,0.6
+2020-03,Motivo_nobusco,10.Enfermedad o accidente,9557,4.2
+2020-03,Motivo_nobusco,11.Asiste a centro de enseñanza,7919,3.4
+2020-03,Motivo_nobusco,12.Tiene obligaciones familiares,29493,12.8
+2020-03,Motivo_nobusco,13.Tiene obligaciones personales,17274,7.5
+2020-03,Motivo_nobusco,14.Otras razones,19180,8.3
+2020-03,Motivo_nobusco,2.Espera reinicio de operaciones o reapertura del negocio,65762,28.6
+2020-03,Motivo_nobusco,3.Espera respuesta de gestiones anteriores,2740,1.2
+2020-03,Motivo_nobusco,4.No tiene dinero para buscar,511,0.2
+2020-03,Motivo_nobusco,5.Se cansó de buscar,1259,0.5
+2020-03,Motivo_nobusco,"6.No le dan trabajo por edad, sexo, raza, discapacidad, otro",16544,7.2
+2020-03,Motivo_nobusco,7.No hay trabajo en la zona,27800,12.1
+2020-03,Motivo_nobusco,8.Sabe que en esta época del año no hay trabajo,15115,6.6
+2020-03,Motivo_nobusco,9.Solo trabaja cuando se lo piden,15573,6.8
+2020-03,Joven_nini,Sí,161656,100
+2020-04,Condicion_actividad,1.Ocupado,1953151,48.7
+2020-04,Condicion_actividad,2.Desempleado,487675,12.1
+2020-04,Condicion_actividad,3.Fuera de la PEA,1573325,39.2
+2020-04,Subempleado,1.No,1549801,79.3
+2020-04,Subempleado,2.Sí,402986,20.6
+2020-04,Subempleado,3.No especificado,364,0
+2020-04,Rama_actividad,99.No especificado,13082,0.7
+2020-04,Rama_actividad,"Act. Artísticas, de entretenimiento y recreativas",10328,0.5
+2020-04,Rama_actividad,Act. Atención de la salud humana y de asistencia social,77874,4
+2020-04,Rama_actividad,Act. de los hogares como empleadores,113383,5.8
+2020-04,Rama_actividad,Act. Financieras y de seguros,40535,2.1
+2020-04,Rama_actividad,Act. Inmobiliarias,15670,0.8
+2020-04,Rama_actividad,"Act. Profesionales, científicas y técnicas",54740,2.8
+2020-04,Rama_actividad,Act. Servicios administrativos y de apoyo,118024,6
+2020-04,Rama_actividad,Actividades de alojamiento,116627,6
+2020-04,Rama_actividad,Administración pública y defensa,92534,4.7
+2020-04,Rama_actividad,"Agricultura, ganadería, silvicultura y pesca",248656,12.7
+2020-04,Rama_actividad,Comercio al por mayor y al por menor,309382,15.8
+2020-04,Rama_actividad,Construcción,135292,6.9
+2020-04,Rama_actividad,Enseñanza,143144,7.3
+2020-04,Rama_actividad,Explotación de minas y canteras,1574,0.1
+2020-04,Rama_actividad,Industrias manufactureras,197637,10.1
+2020-04,Rama_actividad,Información y comunicaciones,35071,1.8
+2020-04,Rama_actividad,Otras actividades de servicios,95493,4.9
+2020-04,Rama_actividad,"Suministro de agua, evacuación de aguas",7230,0.4
+2020-04,Rama_actividad,Suministro de electricidad,19572,1
+2020-04,Rama_actividad,Transporte y almacenamiento,107303,5.5
+2020-04,Educacion_asiste,1.Escuela,8143,0.2
+2020-04,Educacion_asiste,2.colegio,325238,8.1
+2020-04,Educacion_asiste,3.Parauniversitaria o universitaria,251555,6.3
+2020-04,Educacion_asiste,4.Enseñanza especial,2162,0.1
+2020-04,Educacion_asiste,5.Educación abierta en institutos para presentar exámenes ante el MEP,63195,1.6
+2020-04,Educacion_asiste,6.Otro tipo de formación no formal,53994,1.3
+2020-04,Educacion_asiste,7.No asiste,3309864,82.5
+2020-04,Motivo_nobusco,1.Ya encontró trabajo,1586,1
+2020-04,Motivo_nobusco,10.Enfermedad o accidente,9133,5.5
+2020-04,Motivo_nobusco,11.Asiste a centro de enseñanza,7326,4.4
+2020-04,Motivo_nobusco,12.Tiene obligaciones familiares,31021,18.7
+2020-04,Motivo_nobusco,13.Tiene obligaciones personales,9572,5.8
+2020-04,Motivo_nobusco,14.Otras razones,7995,4.8
+2020-04,Motivo_nobusco,2.Espera reinicio de operaciones o reapertura del negocio,34966,21.1
+2020-04,Motivo_nobusco,3.Espera respuesta de gestiones anteriores,1872,1.1
+2020-04,Motivo_nobusco,4.No tiene dinero para buscar,66,0
+2020-04,Motivo_nobusco,5.Se cansó de buscar,606,0.4
+2020-04,Motivo_nobusco,"6.No le dan trabajo por edad, sexo, raza, discapacidad, otro",19154,11.6
+2020-04,Motivo_nobusco,7.No hay trabajo en la zona,21977,13.3
+2020-04,Motivo_nobusco,8.Sabe que en esta época del año no hay trabajo,3460,2.1
+2020-04,Motivo_nobusco,9.Solo trabaja cuando se lo piden,16769,10.1
+2020-04,Joven_nini,Sí,145241,100
+2021-01,Condicion_actividad,1.Ocupado,1992354,49.4
+2021-01,Condicion_actividad,2.Desempleado,457999,11.4
+2021-01,Condicion_actividad,3.Fuera de la PEA,1579829,39.2
+2021-01,Subempleado,1.No,1664346,83.5
+2021-01,Subempleado,2.Sí,326518,16.4
+2021-01,Subempleado,3.No especificado,1490,0.1
+2021-01,Rama_actividad,99.No especificado,19025,1
+2021-01,Rama_actividad,"Act. Artísticas, de entretenimiento y recreativas",22085,1.1
+2021-01,Rama_actividad,Act. Atención de la salud humana y de asistencia social,77509,3.9
+2021-01,Rama_actividad,Act. de los hogares como empleadores,116155,5.8
+2021-01,Rama_actividad,Act. Financieras y de seguros,35730,1.8
+2021-01,Rama_actividad,Act. Inmobiliarias,12916,0.6
+2021-01,Rama_actividad,"Act. Profesionales, científicas y técnicas",54549,2.7
+2021-01,Rama_actividad,Act. Servicios administrativos y de apoyo,119035,6
+2021-01,Rama_actividad,Actividades de alojamiento,115362,5.8
+2021-01,Rama_actividad,Administración pública y defensa,77805,3.9
+2021-01,Rama_actividad,"Agricultura, ganadería, silvicultura y pesca",266311,13.4
+2021-01,Rama_actividad,Comercio al por mayor y al por menor,335035,16.8
+2021-01,Rama_actividad,Construcción,135076,6.8
+2021-01,Rama_actividad,Enseñanza,128847,6.5
+2021-01,Rama_actividad,Explotación de minas y canteras,1576,0.1
+2021-01,Rama_actividad,Industrias manufactureras,202900,10.2
+2021-01,Rama_actividad,Información y comunicaciones,36190,1.8
+2021-01,Rama_actividad,Otras actividades de servicios,105860,5.3
+2021-01,Rama_actividad,"Suministro de agua, evacuación de aguas",6220,0.3
+2021-01,Rama_actividad,Suministro de electricidad,19024,1
+2021-01,Rama_actividad,Transporte y almacenamiento,105144,5.3
+2021-01,Educacion_asiste,1.Escuela,7849,0.2
+2021-01,Educacion_asiste,2.colegio,267072,6.6
+2021-01,Educacion_asiste,3.Parauniversitaria o universitaria,265720,6.6
+2021-01,Educacion_asiste,4.Enseñanza especial,824,0
+2021-01,Educacion_asiste,5.Educación abierta en institutos para presentar exámenes ante el MEP,40772,1
+2021-01,Educacion_asiste,6.Otro tipo de formación no formal,64643,1.6
+2021-01,Educacion_asiste,7.No asiste,3383302,83.9
+2021-01,Motivo_nobusco,1.Ya encontró trabajo,2045,1.5
+2021-01,Motivo_nobusco,10.Enfermedad o accidente,8515,6.2
+2021-01,Motivo_nobusco,11.Asiste a centro de enseñanza,10134,7.3
+2021-01,Motivo_nobusco,12.Tiene obligaciones familiares,29911,21.7
+2021-01,Motivo_nobusco,13.Tiene obligaciones personales,7933,5.7
+2021-01,Motivo_nobusco,14.Otras razones,4706,3.4
+2021-01,Motivo_nobusco,2.Espera reinicio de operaciones o reapertura del negocio,12482,9
+2021-01,Motivo_nobusco,3.Espera respuesta de gestiones anteriores,2411,1.7
+2021-01,Motivo_nobusco,4.No tiene dinero para buscar,250,0.2
+2021-01,Motivo_nobusco,5.Se cansó de buscar,2828,2
+2021-01,Motivo_nobusco,"6.No le dan trabajo por edad, sexo, raza, discapacidad, otro",23525,17
+2021-01,Motivo_nobusco,7.No hay trabajo en la zona,16802,12.2
+2021-01,Motivo_nobusco,8.Sabe que en esta época del año no hay trabajo,409,0.3
+2021-01,Motivo_nobusco,9.Solo trabaja cuando se lo piden,16187,11.7
+2021-01,Joven_nini,Sí,204409,100
+2021-02,Condicion_actividad,1.Ocupado,1969363,48.7
+2021-02,Condicion_actividad,2.Desempleado,434201,10.7
+2021-02,Condicion_actividad,3.Fuera de la PEA,1639289,40.5
+2021-02,Subempleado,1.No,1663329,84.5
+2021-02,Subempleado,2.Sí,303429,15.4
+2021-02,Subempleado,3.No especificado,2605,0.1
+2021-02,Rama_actividad,99.No especificado,19627,1
+2021-02,Rama_actividad,"Act. Artísticas, de entretenimiento y recreativas",15530,0.8
+2021-02,Rama_actividad,Act. Atención de la salud humana y de asistencia social,68533,3.5
+2021-02,Rama_actividad,Act. de los hogares como empleadores,111035,5.6
+2021-02,Rama_actividad,Act. Financieras y de seguros,61240,3.1
+2021-02,Rama_actividad,Act. Inmobiliarias,18996,1
+2021-02,Rama_actividad,"Act. Profesionales, científicas y técnicas",69397,3.5
+2021-02,Rama_actividad,Act. Servicios administrativos y de apoyo,98997,5
+2021-02,Rama_actividad,Actividades de alojamiento,132572,6.7
+2021-02,Rama_actividad,Administración pública y defensa,84223,4.3
+2021-02,Rama_actividad,"Agricultura, ganadería, silvicultura y pesca",221471,11.2
+2021-02,Rama_actividad,Comercio al por mayor y al por menor,329638,16.7
+2021-02,Rama_actividad,Construcción,136850,6.9
+2021-02,Rama_actividad,Enseñanza,121179,6.2
+2021-02,Rama_actividad,Explotación de minas y canteras,2634,0.1
+2021-02,Rama_actividad,Industrias manufactureras,195818,9.9
+2021-02,Rama_actividad,Información y comunicaciones,45629,2.3
+2021-02,Rama_actividad,Otras actividades de servicios,104178,5.3
+2021-02,Rama_actividad,"Suministro de agua, evacuación de aguas",8755,0.4
+2021-02,Rama_actividad,Suministro de electricidad,17074,0.9
+2021-02,Rama_actividad,Transporte y almacenamiento,105987,5.4
+2021-02,Educacion_asiste,1.Escuela,10401,0.3
+2021-02,Educacion_asiste,2.colegio,302407,7.5
+2021-02,Educacion_asiste,3.Parauniversitaria o universitaria,292340,7.2
+2021-02,Educacion_asiste,4.Enseñanza especial,5119,0.1
+2021-02,Educacion_asiste,5.Educación abierta en institutos para presentar exámenes ante el MEP,38759,1
+2021-02,Educacion_asiste,6.Otro tipo de formación no formal,66185,1.6
+2021-02,Educacion_asiste,7.No asiste,3327642,82.3
+2021-02,Motivo_nobusco,1.Ya encontró trabajo,2969,2
+2021-02,Motivo_nobusco,10.Enfermedad o accidente,9192,6.1
+2021-02,Motivo_nobusco,11.Asiste a centro de enseñanza,14910,9.9
+2021-02,Motivo_nobusco,12.Tiene obligaciones familiares,34014,22.7
+2021-02,Motivo_nobusco,13.Tiene obligaciones personales,6499,4.3
+2021-02,Motivo_nobusco,14.Otras razones,3175,2.1
+2021-02,Motivo_nobusco,2.Espera reinicio de operaciones o reapertura del negocio,15099,10.1
+2021-02,Motivo_nobusco,3.Espera respuesta de gestiones anteriores,4879,3.2
+2021-02,Motivo_nobusco,4.No tiene dinero para buscar,88,0.1
+2021-02,Motivo_nobusco,5.Se cansó de buscar,5898,3.9
+2021-02,Motivo_nobusco,"6.No le dan trabajo por edad, sexo, raza, discapacidad, otro",13366,8.9
+2021-02,Motivo_nobusco,7.No hay trabajo en la zona,20790,13.8
+2021-02,Motivo_nobusco,8.Sabe que en esta época del año no hay trabajo,913,0.6
+2021-02,Motivo_nobusco,9.Solo trabaja cuando se lo piden,18365,12.2
+2021-02,Joven_nini,Sí,148876,100
+2021-03,Condicion_actividad,1.Ocupado,2093648,51.6
+2021-03,Condicion_actividad,2.Desempleado,378130,9.3
+2021-03,Condicion_actividad,3.Fuera de la PEA,1582655,39
+2021-03,Subempleado,1.No,1812245,86.6
+2021-03,Subempleado,2.Sí,280655,13.4
+2021-03,Subempleado,3.No especificado,748,0
+2021-03,Rama_actividad,99.No especificado,8034,0.4
+2021-03,Rama_actividad,"Act. Artísticas, de entretenimiento y recreativas",21919,1
+2021-03,Rama_actividad,Act. Atención de la salud humana y de asistencia social,88673,4.2
+2021-03,Rama_actividad,Act. de los hogares como empleadores,143905,6.9
+2021-03,Rama_actividad,Act. Financieras y de seguros,50271,2.4
+2021-03,Rama_actividad,Act. Inmobiliarias,19121,0.9
+2021-03,Rama_actividad,"Act. Profesionales, científicas y técnicas",67783,3.2
+2021-03,Rama_actividad,Act. Servicios administrativos y de apoyo,119130,5.7
+2021-03,Rama_actividad,Actividades de alojamiento,130835,6.2
+2021-03,Rama_actividad,Administración pública y defensa,85161,4.1
+2021-03,Rama_actividad,"Agricultura, ganadería, silvicultura y pesca",226668,10.8
+2021-03,Rama_actividad,Comercio al por mayor y al por menor,356038,17
+2021-03,Rama_actividad,Construcción,131979,6.3
+2021-03,Rama_actividad,Enseñanza,149008,7.1
+2021-03,Rama_actividad,Explotación de minas y canteras,1894,0.1
+2021-03,Rama_actividad,Industrias manufactureras,212971,10.2
+2021-03,Rama_actividad,Información y comunicaciones,47054,2.2
+2021-03,Rama_actividad,Otras actividades de servicios,103701,5
+2021-03,Rama_actividad,"Suministro de agua, evacuación de aguas",10522,0.5
+2021-03,Rama_actividad,Suministro de electricidad,13713,0.7
+2021-03,Rama_actividad,Transporte y almacenamiento,105268,5
+2021-03,Educacion_asiste,1.Escuela,9073,0.2
+2021-03,Educacion_asiste,2.colegio,327146,8.1
+2021-03,Educacion_asiste,3.Parauniversitaria o universitaria,266959,6.6
+2021-03,Educacion_asiste,4.Enseñanza especial,5569,0.1
+2021-03,Educacion_asiste,5.Educación abierta en institutos para presentar exámenes ante el MEP,47327,1.2
+2021-03,Educacion_asiste,6.Otro tipo de formación no formal,70740,1.7
+2021-03,Educacion_asiste,7.No asiste,3327619,82.1
+2021-03,Motivo_nobusco,1.Ya encontró trabajo,1837,1.3
+2021-03,Motivo_nobusco,10.Enfermedad o accidente,7665,5.5
+2021-03,Motivo_nobusco,11.Asiste a centro de enseñanza,12208,8.7
+2021-03,Motivo_nobusco,12.Tiene obligaciones familiares,35418,25.4
+2021-03,Motivo_nobusco,13.Tiene obligaciones personales,14320,10.3
+2021-03,Motivo_nobusco,14.Otras razones,4340,3.1
+2021-03,Motivo_nobusco,2.Espera reinicio de operaciones o reapertura del negocio,10202,7.3
+2021-03,Motivo_nobusco,3.Espera respuesta de gestiones anteriores,3263,2.3
+2021-03,Motivo_nobusco,4.No tiene dinero para buscar,291,0.2
+2021-03,Motivo_nobusco,5.Se cansó de buscar,2297,1.6
+2021-03,Motivo_nobusco,"6.No le dan trabajo por edad, sexo, raza, discapacidad, otro",16356,11.7
+2021-03,Motivo_nobusco,7.No hay trabajo en la zona,15614,11.2
+2021-03,Motivo_nobusco,8.Sabe que en esta época del año no hay trabajo,212,0.2
+2021-03,Motivo_nobusco,9.Solo trabaja cuando se lo piden,15601,11.2
+2021-03,Joven_nini,Sí,125317,100
+2021-04,Condicion_actividad,1.Ocupado,2103963,51.7
+2021-04,Condicion_actividad,2.Desempleado,333424,8.2
+2021-04,Condicion_actividad,3.Fuera de la PEA,1630609,40.1
+2021-04,Subempleado,1.No,1825927,86.8
+2021-04,Subempleado,2.Sí,275812,13.1
+2021-04,Subempleado,3.No especificado,2224,0.1
+2021-04,Rama_actividad,99.No especificado,7325,0.3
+2021-04,Rama_actividad,"Act. Artísticas, de entretenimiento y recreativas",23434,1.1
+2021-04,Rama_actividad,Act. Atención de la salud humana y de asistencia social,95709,4.5
+2021-04,Rama_actividad,Act. de los hogares como empleadores,127963,6.1
+2021-04,Rama_actividad,Act. de organizaciones y órganos extraterritoriales,1106,0.1
+2021-04,Rama_actividad,Act. Financieras y de seguros,40068,1.9
+2021-04,Rama_actividad,Act. Inmobiliarias,22673,1.1
+2021-04,Rama_actividad,"Act. Profesionales, científicas y técnicas",80732,3.8
+2021-04,Rama_actividad,Act. Servicios administrativos y de apoyo,121186,5.8
+2021-04,Rama_actividad,Actividades de alojamiento,128027,6.1
+2021-04,Rama_actividad,Administración pública y defensa,76320,3.6
+2021-04,Rama_actividad,"Agricultura, ganadería, silvicultura y pesca",238456,11.3
+2021-04,Rama_actividad,Comercio al por mayor y al por menor,345224,16.4
+2021-04,Rama_actividad,Construcción,111411,5.3
+2021-04,Rama_actividad,Enseñanza,130610,6.2
+2021-04,Rama_actividad,Explotación de minas y canteras,1442,0.1
+2021-04,Rama_actividad,Industrias manufactureras,235271,11.2
+2021-04,Rama_actividad,Información y comunicaciones,42157,2
+2021-04,Rama_actividad,Otras actividades de servicios,142408,6.8
+2021-04,Rama_actividad,"Suministro de agua, evacuación de aguas",11076,0.5
+2021-04,Rama_actividad,Suministro de electricidad,17197,0.8
+2021-04,Rama_actividad,Transporte y almacenamiento,104168,5
+2021-04,Educacion_asiste,1.Escuela,6953,0.2
+2021-04,Educacion_asiste,2.colegio,349436,8.6
+2021-04,Educacion_asiste,3.Parauniversitaria o universitaria,254663,6.3
+2021-04,Educacion_asiste,4.Enseñanza especial,4109,0.1
+2021-04,Educacion_asiste,5.Educación abierta en institutos para presentar exámenes ante el MEP,41427,1
+2021-04,Educacion_asiste,6.Otro tipo de formación no formal,74037,1.8
+2021-04,Educacion_asiste,7.No asiste,3337371,82
+2021-04,Motivo_nobusco,1.Ya encontró trabajo,1134,0.9
+2021-04,Motivo_nobusco,10.Enfermedad o accidente,8723,7
+2021-04,Motivo_nobusco,11.Asiste a centro de enseñanza,11092,8.9
+2021-04,Motivo_nobusco,12.Tiene obligaciones familiares,36777,29.6
+2021-04,Motivo_nobusco,13.Tiene obligaciones personales,10765,8.7
+2021-04,Motivo_nobusco,14.Otras razones,2385,1.9
+2021-04,Motivo_nobusco,2.Espera reinicio de operaciones o reapertura del negocio,2523,2
+2021-04,Motivo_nobusco,3.Espera respuesta de gestiones anteriores,1966,1.6
+2021-04,Motivo_nobusco,4.No tiene dinero para buscar,58,0
+2021-04,Motivo_nobusco,5.Se cansó de buscar,3418,2.8
+2021-04,Motivo_nobusco,"6.No le dan trabajo por edad, sexo, raza, discapacidad, otro",14612,11.8
+2021-04,Motivo_nobusco,7.No hay trabajo en la zona,13530,10.9
+2021-04,Motivo_nobusco,8.Sabe que en esta época del año no hay trabajo,272,0.2
+2021-04,Motivo_nobusco,9.Solo trabaja cuando se lo piden,16969,13.7
+2021-04,Joven_nini,Sí,129713,100
+2022-01,Condicion_actividad,1.Ocupado,2102076,51.5
+2022-01,Condicion_actividad,2.Desempleado,330227,8.1
+2022-01,Condicion_actividad,3.Fuera de la PEA,1648655,40.4
+2022-01,Subempleado,1.No,1855021,88.2
+2022-01,Subempleado,2.Sí,241227,11.5
+2022-01,Subempleado,3.No especificado,5828,0.3
+2022-01,Rama_actividad,99.No especificado,10834,0.5
+2022-01,Rama_actividad,"Act. Artísticas, de entretenimiento y recreativas",28842,1.4
+2022-01,Rama_actividad,Act. Atención de la salud humana y de asistencia social,91529,4.4
+2022-01,Rama_actividad,Act. de los hogares como empleadores,139821,6.7
+2022-01,Rama_actividad,Act. Financieras y de seguros,41445,2
+2022-01,Rama_actividad,Act. Inmobiliarias,17591,0.8
+2022-01,Rama_actividad,"Act. Profesionales, científicas y técnicas",77199,3.7
+2022-01,Rama_actividad,Act. Servicios administrativos y de apoyo,118127,5.6
+2022-01,Rama_actividad,Actividades de alojamiento,138060,6.6
+2022-01,Rama_actividad,Administración pública y defensa,85290,4.1
+2022-01,Rama_actividad,"Agricultura, ganadería, silvicultura y pesca",224462,10.7
+2022-01,Rama_actividad,Comercio al por mayor y al por menor,353476,16.8
+2022-01,Rama_actividad,Construcción,127693,6.1
+2022-01,Rama_actividad,Enseñanza,135235,6.4
+2022-01,Rama_actividad,Explotación de minas y canteras,2230,0.1
+2022-01,Rama_actividad,Industrias manufactureras,228199,10.9
+2022-01,Rama_actividad,Información y comunicaciones,40053,1.9
+2022-01,Rama_actividad,Otras actividades de servicios,107728,5.1
+2022-01,Rama_actividad,"Suministro de agua, evacuación de aguas",9702,0.5
+2022-01,Rama_actividad,Suministro de electricidad,14021,0.7
+2022-01,Rama_actividad,Transporte y almacenamiento,110539,5.3
+2022-01,Educacion_asiste,1.Escuela,5018,0.1
+2022-01,Educacion_asiste,2.colegio,284992,7
+2022-01,Educacion_asiste,3.Parauniversitaria o universitaria,284083,7
+2022-01,Educacion_asiste,4.Enseñanza especial,3153,0.1
+2022-01,Educacion_asiste,5.Educación abierta en institutos para presentar exámenes ante el MEP,34690,0.9
+2022-01,Educacion_asiste,6.Otro tipo de formación no formal,77746,1.9
+2022-01,Educacion_asiste,7.No asiste,3391276,83.1
+2022-01,Motivo_nobusco,1.Ya encontró trabajo,4487,3.4
+2022-01,Motivo_nobusco,10.Enfermedad o accidente,11475,8.7
+2022-01,Motivo_nobusco,11.Asiste a centro de enseñanza,10581,8
+2022-01,Motivo_nobusco,12.Tiene obligaciones familiares,41367,31.3
+2022-01,Motivo_nobusco,13.Tiene obligaciones personales,9318,7.1
+2022-01,Motivo_nobusco,14.Otras razones,2849,2.2
+2022-01,Motivo_nobusco,2.Espera reinicio de operaciones o reapertura del negocio,4477,3.4
+2022-01,Motivo_nobusco,3.Espera respuesta de gestiones anteriores,1982,1.5
+2022-01,Motivo_nobusco,4.No tiene dinero para buscar,412,0.3
+2022-01,Motivo_nobusco,5.Se cansó de buscar,2934,2.2
+2022-01,Motivo_nobusco,"6.No le dan trabajo por edad, sexo, raza, discapacidad, otro",11792,8.9
+2022-01,Motivo_nobusco,7.No hay trabajo en la zona,12086,9.1
+2022-01,Motivo_nobusco,8.Sabe que en esta época del año no hay trabajo,2464,1.9
+2022-01,Motivo_nobusco,9.Solo trabaja cuando se lo piden,15941,12.1
+2022-01,Joven_nini,Sí,159956,100
+2022-02,Condicion_actividad,1.Ocupado,2153988,52.6
+2022-02,Condicion_actividad,2.Desempleado,284800,7
+2022-02,Condicion_actividad,3.Fuera de la PEA,1655006,40.4
+2022-02,Subempleado,1.No,1947187,90.4
+2022-02,Subempleado,2.Sí,204364,9.5
+2022-02,Subempleado,3.No especificado,2437,0.1
+2022-02,Rama_actividad,99.No especificado,5650,0.3
+2022-02,Rama_actividad,"Act. Artísticas, de entretenimiento y recreativas",32535,1.5
+2022-02,Rama_actividad,Act. Atención de la salud humana y de asistencia social,88834,4.1
+2022-02,Rama_actividad,Act. de los hogares como empleadores,133769,6.2
+2022-02,Rama_actividad,Act. de organizaciones y órganos extraterritoriales,1119,0.1
+2022-02,Rama_actividad,Act. Financieras y de seguros,40180,1.9
+2022-02,Rama_actividad,Act. Inmobiliarias,15604,0.7
+2022-02,Rama_actividad,"Act. Profesionales, científicas y técnicas",65091,3
+2022-02,Rama_actividad,Act. Servicios administrativos y de apoyo,137101,6.4
+2022-02,Rama_actividad,Actividades de alojamiento,141321,6.6
+2022-02,Rama_actividad,Administración pública y defensa,80303,3.7
+2022-02,Rama_actividad,"Agricultura, ganadería, silvicultura y pesca",212337,9.9
+2022-02,Rama_actividad,Comercio al por mayor y al por menor,384734,17.9
+2022-02,Rama_actividad,Construcción,125566,5.8
+2022-02,Rama_actividad,Enseñanza,138203,6.4
+2022-02,Rama_actividad,Explotación de minas y canteras,2497,0.1
+2022-02,Rama_actividad,Industrias manufactureras,255924,11.9
+2022-02,Rama_actividad,Información y comunicaciones,43888,2
+2022-02,Rama_actividad,Otras actividades de servicios,120465,5.6
+2022-02,Rama_actividad,"Suministro de agua, evacuación de aguas",10223,0.5
+2022-02,Rama_actividad,Suministro de electricidad,14062,0.7
+2022-02,Rama_actividad,Transporte y almacenamiento,104582,4.9
+2022-02,Educacion_asiste,1.Escuela,6389,0.2
+2022-02,Educacion_asiste,2.colegio,292804,7.2
+2022-02,Educacion_asiste,3.Parauniversitaria o universitaria,312830,7.6
+2022-02,Educacion_asiste,4.Enseñanza especial,392,0
+2022-02,Educacion_asiste,5.Educación abierta en institutos para presentar exámenes ante el MEP,59296,1.4
+2022-02,Educacion_asiste,6.Otro tipo de formación no formal,72760,1.8
+2022-02,Educacion_asiste,7.No asiste,3349323,81.8
+2022-02,Motivo_nobusco,1.Ya encontró trabajo,1662,1.3
+2022-02,Motivo_nobusco,10.Enfermedad o accidente,12209,9.4
+2022-02,Motivo_nobusco,11.Asiste a centro de enseñanza,11734,9
+2022-02,Motivo_nobusco,12.Tiene obligaciones familiares,44822,34.3
+2022-02,Motivo_nobusco,13.Tiene obligaciones personales,7984,6.1
+2022-02,Motivo_nobusco,14.Otras razones,3793,2.9
+2022-02,Motivo_nobusco,2.Espera reinicio de operaciones o reapertura del negocio,2141,1.6
+2022-02,Motivo_nobusco,3.Espera respuesta de gestiones anteriores,7253,5.6
+2022-02,Motivo_nobusco,4.No tiene dinero para buscar,177,0.1
+2022-02,Motivo_nobusco,5.Se cansó de buscar,1896,1.5
+2022-02,Motivo_nobusco,"6.No le dan trabajo por edad, sexo, raza, discapacidad, otro",8689,6.7
+2022-02,Motivo_nobusco,7.No hay trabajo en la zona,9559,7.3
+2022-02,Motivo_nobusco,8.Sabe que en esta época del año no hay trabajo,399,0.3
+2022-02,Motivo_nobusco,9.Solo trabaja cuando se lo piden,18234,14
+2022-02,Joven_nini,Sí,130440,100
+2022-04,Condicion_actividad,1.Ocupado,2173061,52.8
+2022-04,Condicion_actividad,2.Desempleado,287085,7
+2022-04,Condicion_actividad,3.Fuera de la PEA,1659222,40.3
+2022-04,Subempleado,1.No,1962609,90.3
+2022-04,Subempleado,2.Sí,210452,9.7
+2022-04,Rama_actividad,99.No especificado,3404,0.2
+2022-04,Rama_actividad,"Act. Artísticas, de entretenimiento y recreativas",20298,0.9
+2022-04,Rama_actividad,Act. Atención de la salud humana y de asistencia social,75881,3.5
+2022-04,Rama_actividad,Act. de los hogares como empleadores,154978,7.1
+2022-04,Rama_actividad,Act. de organizaciones y órganos extraterritoriales,1797,0.1
+2022-04,Rama_actividad,Act. Financieras y de seguros,51638,2.4
+2022-04,Rama_actividad,Act. Inmobiliarias,15806,0.7
+2022-04,Rama_actividad,"Act. Profesionales, científicas y técnicas",76222,3.5
+2022-04,Rama_actividad,Act. Servicios administrativos y de apoyo,122712,5.6
+2022-04,Rama_actividad,Actividades de alojamiento,141195,6.5
+2022-04,Rama_actividad,Administración pública y defensa,77762,3.6
+2022-04,Rama_actividad,"Agricultura, ganadería, silvicultura y pesca",218605,10.1
+2022-04,Rama_actividad,Comercio al por mayor y al por menor,378079,17.4
+2022-04,Rama_actividad,Construcción,153612,7.1
+2022-04,Rama_actividad,Enseñanza,131915,6.1
+2022-04,Rama_actividad,Explotación de minas y canteras,1499,0.1
+2022-04,Rama_actividad,Industrias manufactureras,256031,11.8
+2022-04,Rama_actividad,Información y comunicaciones,42413,2
+2022-04,Rama_actividad,Otras actividades de servicios,118081,5.4
+2022-04,Rama_actividad,"Suministro de agua, evacuación de aguas",9386,0.4
+2022-04,Rama_actividad,Suministro de electricidad,9195,0.4
+2022-04,Rama_actividad,Transporte y almacenamiento,112552,5.2
+2022-04,Educacion_asiste,1.Escuela,4768,0.1
+2022-04,Educacion_asiste,2.colegio,299520,7.3
+2022-04,Educacion_asiste,3.Parauniversitaria o universitaria,276387,6.7
+2022-04,Educacion_asiste,4.Enseñanza especial,263,0
+2022-04,Educacion_asiste,5.Educación abierta en institutos para presentar exámenes ante el MEP,39636,1
+2022-04,Educacion_asiste,6.Otro tipo de formación no formal,53521,1.3
+2022-04,Educacion_asiste,7.No asiste,3445079,83.6
+2022-04,Educacion_asiste,9,194,0
+2022-04,Motivo_nobusco,1.Ya encontró trabajo,1658,1.5
+2022-04,Motivo_nobusco,10.Enfermedad o accidente,7709,6.9
+2022-04,Motivo_nobusco,11.Asiste a centro de enseñanza,12170,10.9
+2022-04,Motivo_nobusco,12.Tiene obligaciones familiares,30490,27.4
+2022-04,Motivo_nobusco,13.Tiene obligaciones personales,6714,6
+2022-04,Motivo_nobusco,14.Otras razones,819,0.7
+2022-04,Motivo_nobusco,2.Espera reinicio de operaciones o reapertura del negocio,4797,4.3
+2022-04,Motivo_nobusco,3.Espera respuesta de gestiones anteriores,3801,3.4
+2022-04,Motivo_nobusco,4.No tiene dinero para buscar,720,0.6
+2022-04,Motivo_nobusco,5.Se cansó de buscar,3182,2.9
+2022-04,Motivo_nobusco,"6.No le dan trabajo por edad, sexo, raza, discapacidad, otro",7296,6.5
+2022-04,Motivo_nobusco,7.No hay trabajo en la zona,5697,5.1
+2022-04,Motivo_nobusco,8.Sabe que en esta época del año no hay trabajo,481,0.4
+2022-04,Motivo_nobusco,9.Solo trabaja cuando se lo piden,25902,23.2
+2022-04,Joven_nini,Sí,130080,100
+2022-03,Condicion_actividad,1.Ocupado,2187884,53.3
+2022-03,Condicion_actividad,2.Desempleado,296971,7.2
+2022-03,Condicion_actividad,3.Fuera de la PEA,1622762,39.5
+2022-03,Subempleado,1.No,1975738,90.3
+2022-03,Subempleado,2.Sí,211934,9.7
+2022-03,Subempleado,3.No especificado,212,0
+2022-03,Rama_actividad,99.No especificado,9196,0.4
+2022-03,Rama_actividad,"Act. Artísticas, de entretenimiento y recreativas",22372,1
+2022-03,Rama_actividad,Act. Atención de la salud humana y de asistencia social,88347,4
+2022-03,Rama_actividad,Act. de los hogares como empleadores,147228,6.7
+2022-03,Rama_actividad,Act. de organizaciones y órganos extraterritoriales,1687,0.1
+2022-03,Rama_actividad,Act. Financieras y de seguros,45983,2.1
+2022-03,Rama_actividad,Act. Inmobiliarias,17030,0.8
+2022-03,Rama_actividad,"Act. Profesionales, científicas y técnicas",69153,3.2
+2022-03,Rama_actividad,Act. Servicios administrativos y de apoyo,132932,6.1
+2022-03,Rama_actividad,Actividades de alojamiento,136356,6.2
+2022-03,Rama_actividad,Administración pública y defensa,79349,3.6
+2022-03,Rama_actividad,"Agricultura, ganadería, silvicultura y pesca",213012,9.7
+2022-03,Rama_actividad,Comercio al por mayor y al por menor,383488,17.5
+2022-03,Rama_actividad,Construcción,155006,7.1
+2022-03,Rama_actividad,Enseñanza,123818,5.7
+2022-03,Rama_actividad,Explotación de minas y canteras,1392,0.1
+2022-03,Rama_actividad,Industrias manufactureras,257580,11.8
+2022-03,Rama_actividad,Información y comunicaciones,52997,2.4
+2022-03,Rama_actividad,Otras actividades de servicios,109896,5
+2022-03,Rama_actividad,"Suministro de agua, evacuación de aguas",10288,0.5
+2022-03,Rama_actividad,Suministro de electricidad,18850,0.9
+2022-03,Rama_actividad,Transporte y almacenamiento,111924,5.1
+2022-03,Educacion_asiste,1.Escuela,8704,0.2
+2022-03,Educacion_asiste,2.colegio,301161,7.3
+2022-03,Educacion_asiste,3.Parauniversitaria o universitaria,317436,7.7
+2022-03,Educacion_asiste,4.Enseñanza especial,1039,0
+2022-03,Educacion_asiste,5.Educación abierta en institutos para presentar exámenes ante el MEP,34836,0.8
+2022-03,Educacion_asiste,6.Otro tipo de formación no formal,72131,1.8
+2022-03,Educacion_asiste,7.No asiste,3372310,82.1
+2022-03,Motivo_nobusco,1.Ya encontró trabajo,741,0.6
+2022-03,Motivo_nobusco,10.Enfermedad o accidente,13479,10.4
+2022-03,Motivo_nobusco,11.Asiste a centro de enseñanza,13346,10.3
+2022-03,Motivo_nobusco,12.Tiene obligaciones familiares,38083,29.3
+2022-03,Motivo_nobusco,13.Tiene obligaciones personales,6971,5.4
+2022-03,Motivo_nobusco,14.Otras razones,1928,1.5
+2022-03,Motivo_nobusco,2.Espera reinicio de operaciones o reapertura del negocio,4906,3.8
+2022-03,Motivo_nobusco,3.Espera respuesta de gestiones anteriores,1081,0.8
+2022-03,Motivo_nobusco,4.No tiene dinero para buscar,783,0.6
+2022-03,Motivo_nobusco,5.Se cansó de buscar,7265,5.6
+2022-03,Motivo_nobusco,"6.No le dan trabajo por edad, sexo, raza, discapacidad, otro",13249,10.2
+2022-03,Motivo_nobusco,7.No hay trabajo en la zona,6866,5.3
+2022-03,Motivo_nobusco,8.Sabe que en esta época del año no hay trabajo,403,0.3
+2022-03,Motivo_nobusco,9.Solo trabaja cuando se lo piden,20928,16.1
+2022-03,Joven_nini,Sí,124778,100
+2023-01,Condicion_actividad,1.Ocupado,2098103,50.7
+2023-01,Condicion_actividad,2.Desempleado,248779,6
+2023-01,Condicion_actividad,3.Fuera de la PEA,1787699,43.2
+2023-01,Subempleado,1.No,1948819,92.9
+2023-01,Subempleado,2.Sí,147827,7
+2023-01,Subempleado,3.No especificado,1457,0.1
+2023-01,Rama_actividad,99.No especificado,7176,0.3
+2023-01,Rama_actividad,"Act. Artísticas, de entretenimiento y recreativas",18998,0.9
+2023-01,Rama_actividad,Act. Atención de la salud humana y de asistencia social,80861,3.9
+2023-01,Rama_actividad,Act. de los hogares como empleadores,131770,6.3
+2023-01,Rama_actividad,Act. de organizaciones y órganos extraterritoriales,928,0
+2023-01,Rama_actividad,Act. Financieras y de seguros,45518,2.2
+2023-01,Rama_actividad,Act. Inmobiliarias,18969,0.9
+2023-01,Rama_actividad,"Act. Profesionales, científicas y técnicas",73477,3.5
+2023-01,Rama_actividad,Act. Servicios administrativos y de apoyo,119342,5.7
+2023-01,Rama_actividad,Actividades de alojamiento,135878,6.5
+2023-01,Rama_actividad,Administración pública y defensa,75173,3.6
+2023-01,Rama_actividad,"Agricultura, ganadería, silvicultura y pesca",228860,10.9
+2023-01,Rama_actividad,Comercio al por mayor y al por menor,368305,17.6
+2023-01,Rama_actividad,Construcción,149100,7.1
+2023-01,Rama_actividad,Enseñanza,134755,6.4
+2023-01,Rama_actividad,Explotación de minas y canteras,1126,0.1
+2023-01,Rama_actividad,Industrias manufactureras,240845,11.5
+2023-01,Rama_actividad,Información y comunicaciones,35025,1.7
+2023-01,Rama_actividad,Otras actividades de servicios,91345,4.4
+2023-01,Rama_actividad,"Suministro de agua, evacuación de aguas",11140,0.5
+2023-01,Rama_actividad,Suministro de electricidad,18555,0.9
+2023-01,Rama_actividad,Transporte y almacenamiento,110957,5.3
+2023-01,Educacion_asiste,1.Escuela,5147,0.1
+2023-01,Educacion_asiste,2.colegio,265002,6.4
+2023-01,Educacion_asiste,3.Parauniversitaria o universitaria,274579,6.6
+2023-01,Educacion_asiste,4.Enseñanza especial,330,0
+2023-01,Educacion_asiste,5.Educación abierta en institutos para presentar exámenes ante el MEP,21802,0.5
+2023-01,Educacion_asiste,6.Otro tipo de formación no formal,59738,1.4
+2023-01,Educacion_asiste,7.No asiste,3507983,84.8
+2023-01,Motivo_nobusco,1.Ya encontró trabajo,1428,1.3
+2023-01,Motivo_nobusco,10.Enfermedad o accidente,6586,6.1
+2023-01,Motivo_nobusco,11.Asiste a centro de enseñanza,7815,7.2
+2023-01,Motivo_nobusco,12.Tiene obligaciones familiares,25597,23.7
+2023-01,Motivo_nobusco,13.Tiene obligaciones personales,10631,9.8
+2023-01,Motivo_nobusco,14.Otras razones,1808,1.7
+2023-01,Motivo_nobusco,2.Espera reinicio de operaciones o reapertura del negocio,1818,1.7
+2023-01,Motivo_nobusco,3.Espera respuesta de gestiones anteriores,5891,5.4
+2023-01,Motivo_nobusco,4.No tiene dinero para buscar,2428,2.2
+2023-01,Motivo_nobusco,5.Se cansó de buscar,8271,7.6
+2023-01,Motivo_nobusco,"6.No le dan trabajo por edad, sexo, raza, discapacidad, otro",8440,7.8
+2023-01,Motivo_nobusco,7.No hay trabajo en la zona,5319,4.9
+2023-01,Motivo_nobusco,8.Sabe que en esta época del año no hay trabajo,158,0.1
+2023-01,Motivo_nobusco,9.Solo trabaja cuando se lo piden,22004,20.3
+2023-01,Joven_nini,Sí,186015,100
+2023-02,Condicion_actividad,1.Ocupado,2121609,51.2
+2023-02,Condicion_actividad,2.Desempleado,224899,5.4
+2023-02,Condicion_actividad,3.Fuera de la PEA,1800564,43.4
+2023-02,Subempleado,1.No,1983243,93.5
+2023-02,Subempleado,2.Sí,137157,6.5
+2023-02,Subempleado,3.No especificado,1209,0.1
+2023-02,Rama_actividad,99.No especificado,8048,0.4
+2023-02,Rama_actividad,"Act. Artísticas, de entretenimiento y recreativas",20952,1
+2023-02,Rama_actividad,Act. Atención de la salud humana y de asistencia social,83259,3.9
+2023-02,Rama_actividad,Act. de los hogares como empleadores,116832,5.5
+2023-02,Rama_actividad,Act. de organizaciones y órganos extraterritoriales,1036,0
+2023-02,Rama_actividad,Act. Financieras y de seguros,46014,2.2
+2023-02,Rama_actividad,Act. Inmobiliarias,16811,0.8
+2023-02,Rama_actividad,"Act. Profesionales, científicas y técnicas",62168,2.9
+2023-02,Rama_actividad,Act. Servicios administrativos y de apoyo,135053,6.4
+2023-02,Rama_actividad,Actividades de alojamiento,129405,6.1
+2023-02,Rama_actividad,Administración pública y defensa,85794,4
+2023-02,Rama_actividad,"Agricultura, ganadería, silvicultura y pesca",215493,10.2
+2023-02,Rama_actividad,Comercio al por mayor y al por menor,377069,17.8
+2023-02,Rama_actividad,Construcción,143626,6.8
+2023-02,Rama_actividad,Enseñanza,130393,6.1
+2023-02,Rama_actividad,Explotación de minas y canteras,1162,0.1
+2023-02,Rama_actividad,Industrias manufactureras,272451,12.8
+2023-02,Rama_actividad,Información y comunicaciones,42642,2
+2023-02,Rama_actividad,Otras actividades de servicios,93444,4.4
+2023-02,Rama_actividad,"Suministro de agua, evacuación de aguas",9847,0.5
+2023-02,Rama_actividad,Suministro de electricidad,19728,0.9
+2023-02,Rama_actividad,Transporte y almacenamiento,110382,5.2
+2023-02,Educacion_asiste,1.Escuela,4815,0.1
+2023-02,Educacion_asiste,2.colegio,290264,7
+2023-02,Educacion_asiste,3.Parauniversitaria o universitaria,268991,6.5
+2023-02,Educacion_asiste,5.Educación abierta en institutos para presentar exámenes ante el MEP,10796,0.3
+2023-02,Educacion_asiste,6.Otro tipo de formación no formal,76059,1.8
+2023-02,Educacion_asiste,7.No asiste,3496147,84.3
+2023-02,Motivo_nobusco,1.Ya encontró trabajo,853,0.9
+2023-02,Motivo_nobusco,10.Enfermedad o accidente,8217,9.1
+2023-02,Motivo_nobusco,11.Asiste a centro de enseñanza,11120,12.3
+2023-02,Motivo_nobusco,12.Tiene obligaciones familiares,25556,28.2
+2023-02,Motivo_nobusco,13.Tiene obligaciones personales,6208,6.8
+2023-02,Motivo_nobusco,14.Otras razones,1198,1.3
+2023-02,Motivo_nobusco,2.Espera reinicio de operaciones o reapertura del negocio,341,0.4
+2023-02,Motivo_nobusco,3.Espera respuesta de gestiones anteriores,4017,4.4
+2023-02,Motivo_nobusco,4.No tiene dinero para buscar,207,0.2
+2023-02,Motivo_nobusco,5.Se cansó de buscar,2665,2.9
+2023-02,Motivo_nobusco,"6.No le dan trabajo por edad, sexo, raza, discapacidad, otro",3559,3.9
+2023-02,Motivo_nobusco,7.No hay trabajo en la zona,5809,6.4
+2023-02,Motivo_nobusco,8.Sabe que en esta época del año no hay trabajo,708,0.8
+2023-02,Motivo_nobusco,9.Solo trabaja cuando se lo piden,20205,22.3
+2023-02,Joven_nini,Sí,142234,100

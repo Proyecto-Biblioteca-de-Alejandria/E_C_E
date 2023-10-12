@@ -1,0 +1,3 @@
+IdInstitucion,n,mean_edad,q1_edad,q3_edad,es_soltero,es_jefe_hogar,trabaja,hijos,med_ingreso_hogar,q1_ingreso,q3_ingreso
+2,13173,22,18,24,93.3,21.1,37.1,13.2,780000,340000,1530000
+3,7873,26,20,30,85.8,48.4,70.9,24.6,810000,440000,1310000

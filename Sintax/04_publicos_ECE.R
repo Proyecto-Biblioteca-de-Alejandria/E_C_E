@@ -158,7 +158,6 @@ publico_potencial |>
        caption = "Fuente: INEC [CR] - Encuesta Continua de Empleo")+
   theme_minimal()+
   theme(legend.position = "right")
-
   
 
 

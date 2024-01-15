@@ -35,7 +35,7 @@ ECE_data <- tibble()
 
 for (file in files_ECE){
 
-  file <-   files_ECE[18]
+  # file <-   files_ECE[18]
   print(file)
 
 
@@ -59,7 +59,7 @@ diseño_ECE <- svydesign(ids=~ID_VIVIENDA,
 # Indicadores
 for (variable in vars_interes){
 
-  print(variable)
+  # print(variable)
   
   trim <- svytable(~get(variable), design = diseño_ECE)
   

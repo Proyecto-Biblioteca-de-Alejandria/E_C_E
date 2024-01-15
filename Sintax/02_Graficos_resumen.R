@@ -15,7 +15,7 @@ library(viridis)
 # source(paste0(getwd(),"/Sintax/00_funciones_ayuda.R"))
 # source(paste0(getwd(),"/Sintax/01_data"))
 
-# Data
+# Data (ECE_data_resumen.csv viene de: 01_data.R)
 ECE_data <- fread(paste0(getwd(),"//Output/ECE_data_resumen.csv"))
 
 #### Gráficos ####
@@ -24,7 +24,7 @@ ECE_data <- fread(paste0(getwd(),"//Output/ECE_data_resumen.csv"))
 
 rama_top_10 <- ECE_data |> 
   filter(var %in% c("Rama_actividad"),
-         Trimestre=="2023-02") |>
+         Trimestre=="2023-03") |>
   arrange(-n) |> 
   head(12) |> 
   select(categoria) 
@@ -32,7 +32,7 @@ rama_top_10 <- ECE_data |>
 
 data_plot <- ECE_data |> 
   filter(var %in% c("Rama_actividad"),
-         Trimestre %in% c("2020-02","2021-02", "2022-02","2023-01", "2023-02"),
+         Trimestre %in% c("2020-02","2021-02", "2022-02","2023-01", "2023-02", "2023-03"),
          categoria %in% rama_top_10$categoria) |> 
   mutate(n=round((n/1000),1))
 
@@ -43,13 +43,15 @@ rama_act <- data_plot |>
   geom_line()+
   geom_text(size=3, nudge_y = 10)+
   scale_color_viridis(discrete = T, option = "magma") +
+  # scale_x_discrete(breaks = unique(data_plot$Trimestre), labels = unique(data_plot$Etiquetas)) +
   labs(title = "Ocupados por Rama de actividad",
        x="",
-       y="Miles",
+       y="Miles de personas",
        caption = "[CR] INEC - Encuesta Continua de Empleo")+
   facet_wrap(~categoria)+
   theme_minimal()+
-  theme(legend.position = "none")
+  theme(legend.position = "none")+
+  theme(axis.text.x = element_text(angle = 30, hjust = 1))
 
 rama_act
 
@@ -84,7 +86,7 @@ sub_emp <- data_plot |>
            label = paste0("ΔT-4: ",tail(data_plot$var_t4, n=1),"pp"),
            size=3)+
   scale_y_continuous(limits = c(0, 30))+
-  scale_color_viridis(option = "mako")+
+  scale_color_viridis(option = "magma") +
   labs(title = "Sub Empleo",
        x="",
        y="%",
@@ -121,7 +123,7 @@ desem <- data_plot |>
            label = paste0("ΔT-4: ",tail(data_plot$var_t4, n=1),"pp"),
            size=3)+
   scale_y_continuous(limits = c(0, 20))+
-  scale_color_viridis(option = "mako")+
+  scale_color_viridis(option = "magma")+
   labs(title = "Desempleo",
        x="",
        y="%",
@@ -158,7 +160,7 @@ g_asis_univ <- asis_univ |>
            y = tail(asis_univ$n, n=1)-15 , 
            label = paste0("ΔT-4: ",tail(asis_univ$var_t4, n=1),"%"),
            size=3)+
-  scale_color_viridis(option = "mako")+
+  scale_color_viridis(option = "magma")+
   scale_y_continuous(limits = c(200, 330))+
   # geom_col(alpha=0.7)+
   labs(
@@ -198,7 +200,7 @@ g_pei_educ <- pei_educ |>
            y = tail(pei_educ$n, n=1)-6 , 
            label = paste0("ΔT-4: ",tail(pei_educ$var_t4, n=1),"%"),
            size=3)+
-  scale_color_viridis(option = "mako")+
+  scale_color_viridis(option = "magma")+
   scale_y_continuous(limits = c(0, 30))+
   labs(title = "No busca Trabajo por Estudiar",
        x="",
@@ -236,7 +238,7 @@ ggplot(aes(x=Trimestre, y=n ,group=1, colour=n))+
            y = tail(ninis$n, n=1)-10, 
            label = paste0("ΔT-4: ",tail(ninis$var_t4, n=1),"%"),
            size=3)+
-  scale_color_viridis(option = "mako")+
+  scale_color_viridis(option = "magma")+
   # scale_y_continuous(limits = c(100, 225))+
   labs(title = "Jóvenes Nini",
        x="",

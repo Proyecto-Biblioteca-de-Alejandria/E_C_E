@@ -1,7 +1,7 @@
 ################################################################################
 ## Identificar mercado potencial ECE    ##
 ## Creado: 06-oct-2023
-## Modif : 06-oct-2023
+## Modif : 15-ene-2024
 # Objetivo: 
 # Identificar cómo evoluciona la cantidad de personas con las características de 
 # los estudiantes de latina y UAM

@@ -892,3 +892,52 @@ Trimestre,var,categoria,n,prop
 2023-02,Motivo_nobusco,8.Sabe que en esta época del año no hay trabajo,708,0.8
 2023-02,Motivo_nobusco,9.Solo trabaja cuando se lo piden,20205,22.3
 2023-02,Joven_nini,Sí,142234,100
+2023-03,Condicion_actividad,1.Ocupado,2077742,50
+2023-03,Condicion_actividad,2.Desempleado,182670,4.4
+2023-03,Condicion_actividad,3.Fuera de la PEA,1898984,45.7
+2023-03,Subempleado,1.No,1970867,94.9
+2023-03,Subempleado,2.Sí,106643,5.1
+2023-03,Subempleado,3.No especificado,232,0
+2023-03,Rama_actividad,99.No especificado,6230,0.3
+2023-03,Rama_actividad,"Act. Artísticas, de entretenimiento y recreativas",27847,1.3
+2023-03,Rama_actividad,Act. Atención de la salud humana y de asistencia social,83408,4
+2023-03,Rama_actividad,Act. de los hogares como empleadores,111931,5.4
+2023-03,Rama_actividad,Act. Financieras y de seguros,44142,2.1
+2023-03,Rama_actividad,Act. Inmobiliarias,9826,0.5
+2023-03,Rama_actividad,"Act. Profesionales, científicas y técnicas",66120,3.2
+2023-03,Rama_actividad,Act. Servicios administrativos y de apoyo,116639,5.6
+2023-03,Rama_actividad,Actividades de alojamiento,143641,6.9
+2023-03,Rama_actividad,Administración pública y defensa,85299,4.1
+2023-03,Rama_actividad,"Agricultura, ganadería, silvicultura y pesca",213739,10.3
+2023-03,Rama_actividad,Comercio al por mayor y al por menor,356665,17.2
+2023-03,Rama_actividad,Construcción,145135,7
+2023-03,Rama_actividad,Enseñanza,129281,6.2
+2023-03,Rama_actividad,Explotación de minas y canteras,2461,0.1
+2023-03,Rama_actividad,Industrias manufactureras,260279,12.5
+2023-03,Rama_actividad,Información y comunicaciones,48363,2.3
+2023-03,Rama_actividad,Otras actividades de servicios,97385,4.7
+2023-03,Rama_actividad,"Suministro de agua, evacuación de aguas",7619,0.4
+2023-03,Rama_actividad,Suministro de electricidad,19753,1
+2023-03,Rama_actividad,Transporte y almacenamiento,101979,4.9
+2023-03,Educacion_asiste,1.Escuela,7304,0.2
+2023-03,Educacion_asiste,2.colegio,295909,7.1
+2023-03,Educacion_asiste,3.Parauniversitaria o universitaria,265540,6.4
+2023-03,Educacion_asiste,4.Enseñanza especial,88,0
+2023-03,Educacion_asiste,5.Educación abierta en institutos para presentar exámenes ante el MEP,9681,0.2
+2023-03,Educacion_asiste,6.Otro tipo de formación no formal,67422,1.6
+2023-03,Educacion_asiste,7.No asiste,3513452,84.5
+2023-03,Motivo_nobusco,1.Ya encontró trabajo,1236,1.2
+2023-03,Motivo_nobusco,10.Enfermedad o accidente,10598,10.4
+2023-03,Motivo_nobusco,11.Asiste a centro de enseñanza,7547,7.4
+2023-03,Motivo_nobusco,12.Tiene obligaciones familiares,25160,24.7
+2023-03,Motivo_nobusco,13.Tiene obligaciones personales,6062,6
+2023-03,Motivo_nobusco,14.Otras razones,1946,1.9
+2023-03,Motivo_nobusco,2.Espera reinicio de operaciones o reapertura del negocio,1874,1.8
+2023-03,Motivo_nobusco,3.Espera respuesta de gestiones anteriores,1260,1.2
+2023-03,Motivo_nobusco,4.No tiene dinero para buscar,1052,1
+2023-03,Motivo_nobusco,5.Se cansó de buscar,4338,4.3
+2023-03,Motivo_nobusco,"6.No le dan trabajo por edad, sexo, raza, discapacidad, otro",8322,8.2
+2023-03,Motivo_nobusco,7.No hay trabajo en la zona,5044,5
+2023-03,Motivo_nobusco,8.Sabe que en esta época del año no hay trabajo,779,0.8
+2023-03,Motivo_nobusco,9.Solo trabaja cuando se lo piden,26445,26
+2023-03,Joven_nini,Sí,154401,100

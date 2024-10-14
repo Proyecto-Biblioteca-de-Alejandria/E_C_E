@@ -151,8 +151,8 @@ x <- evol_metricas_ece |>
 
 x |> 
   ggplot(aes(x=Trimestre, y=Total, group=variable, colour=variable))+
-  geom_line(linewidth=1 )+
-  scale_color_viridis(option="B",discrete = TRUE)+
+  geom_line(size=1.3)+
+  scale_color_viridis(option="magma",discrete = TRUE, end = .8,)+
   ylim(500, 3000)+
   labs(title = "Evolución de variables de interés",
        x="",
@@ -161,7 +161,8 @@ x |>
        caption = "Fuente: INEC [CR] - Encuesta Continua de Empleo")+
   facet_wrap(~universidad)+
   theme_minimal()+
-  theme(legend.position = "top")
+  theme(legend.position = "top",
+        axis.text.x = element_text(angle = 30, hjust = 1))
   
 
 

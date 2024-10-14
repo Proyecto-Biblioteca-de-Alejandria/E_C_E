@@ -7,6 +7,8 @@
 # Función codificación y selección de variables
 ece_codif <- function(data){
   data <- data |> mutate(
+    # Edad
+    Edad = as.numeric(Edad),
     # Condición de actividad: 
     Condicion_actividad=recode(as.character(Condicion_actividad),
                                `1`= "1.Ocupado", 
@@ -126,12 +128,24 @@ ece_codif <- function(data){
                                 `7`= "Especialidad",
                                 `8`= "Maestría o Doctorado",
                                 `9`= "Desconocido",
+                                .missing = NA_character_),
+    Desea_trabajar=recode(as.character(Desea_trabajar),
+                                `1`= "1.No desea trabajar",
+                                `2`= "2.Persona muy anciana",
+                                `3`= "3.Por discapacidad permanente",
+                                `4`= "4.Por enfermedad",
+                                `5`= "5.Por obligaciones familiares",
+                                `6`= "6.Por razones personales",
+                                `7`= "7.Podría, pero en otro momento",
+                                `8`= "8.Si podría, sin ninguna restricción",
+                                `9`= "9.Si podría, con ciertas condiciones",
+                               `99`= "Ignorado",
                                 .missing = NA_character_)
   )
 }
 
-
-
+# Diccionario de variables ECE
+# http://sistemas.inec.cr/pad5/index.php/catalog/306/data-dictionary/F7?file_name=III%20Trimestre%202023
 
 
 

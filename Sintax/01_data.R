@@ -20,6 +20,8 @@ vars_interes <- c("Condicion_actividad", "Subempleado",
                   "Rama_actividad", "Educacion_asiste", 
                   "Motivo_nobusco","Joven_nini")
 
+variables_trabajo <- c("Desea_trabajar", "Educacion_nivel_grado")
+
 vars_demograf <- c("Edad", "Sexo", "Estado_conyugal")
 
 vars_ident <- c("ID_AMO","ID_TRIMESTRE",
@@ -35,31 +37,54 @@ ECE_data <- tibble()
 
 for (file in files_ECE){
 
-  # file <-   files_ECE[18]
+  # file <-   files_ECE[2]
   print(file)
 
 
 df_ECE <- read_sav(paste0(getwd(),"/Data/", file)) |> as_tibble()
 
-# names(df_ECE)
+ # names(df_ECE)
 
 # Tratamiento
   ## Codificamos la tabla
 df_ECE <- ece_codif(df_ECE) |> 
   ## Extracción variables de interés
-    select(all_of(c(vars_ident, vars_demograf, vars_interes))) |> 
-    mutate(Trimestre =str_c(ID_AMO, "-0",ID_TRIMESTRE))
+    select(all_of(c(vars_ident, vars_demograf, vars_interes, variables_trabajo))) |> 
+    mutate(Trimestre =str_c(ID_AMO, "-0",ID_TRIMESTRE),
+  ## Variables calculadas
+           numerador_no_edu=if_else((Edad>=18 & 
+                                     Edad <=30 & 
+                                     Educacion_asiste     != "3.Parauniversitaria o universitaria" &
+                                     Educacion_nivel_grado!="Parauniversitario|Universidad"        &
+                                    (Desea_trabajar      %in% c("8.Si podría, sin ninguna restricción", 
+                                                         "9.Si podría, con ciertas condiciones" ) |
+                                     Condicion_actividad=="1.Ocupado")),1, NA_real_),
+          denominador_no_edu=if_else((Edad>=18 &  
+                                      Edad <=30 &
+                                      Educacion_asiste     != "3.Parauniversitaria o universitaria" &
+                                      Educacion_nivel_grado!="Parauniversitario|Universidad"),
+                                      1,NA_real_)
+                              ) |> 
+    select(-all_of(variables_trabajo))
 
-
+# sum(df_ECE$numerador, na.rm=T)  / sum(df_ECE$denominador, na.rm=T)  
+  # >18 que no tienen y no asisten a educación superior y que quieren trabajar o esta trabajando
+  # /
+  # >18 que no tienen y no asisten a educación superior
+  
 # Declaramos Diseño Muestral
 diseño_ECE <- svydesign(ids=~ID_VIVIENDA, 
                         weights=~Factor_ponderacion, 
                         data = df_ECE)
 
+# nuevas variables de interés: antiguas mas calculadas.
+all_vars <- c(vars_interes,"numerador_no_edu", "denominador_no_edu")
+
 # Indicadores
-for (variable in vars_interes){
+for (variable in all_vars){
 
   # print(variable)
+  # variable <- "no_edu_sup_trabajo"
   
   trim <- svytable(~get(variable), design = diseño_ECE)
   

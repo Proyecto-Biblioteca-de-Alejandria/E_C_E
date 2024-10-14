@@ -143,7 +143,9 @@ publico_potencial <- publico_potencial |>
          Potencial=value) |> 
   mutate(Universidad=str_remove(Universidad,"potencial_"),
          Universidad=str_to_upper(Universidad))
-               
+
+# write_xlsx(publico_potencial, paste0(getwd(), "/Data/Mercado_potencial_CR.xlsx"))
+
 table(publico_potencial$Universidad)
 
 ## PLot
@@ -157,10 +159,10 @@ publico_potencial |>
        colour="",
        caption = "Fuente: INEC [CR] - Encuesta Continua de Empleo")+
   theme_minimal()+
-  theme(legend.position = "right")
+  theme(legend.position = "top")
   
+publico_potencial
 
 
 
-
-# incluir Hijos, escolaridad y ver si clusters (al menos en UAM)
+# 
